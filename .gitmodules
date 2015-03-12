@@ -1,0 +1,3 @@
+[submodule "conf2"]
+	path = conf2
+	url = https://github.com/roninlabs-teacher/shared-config
