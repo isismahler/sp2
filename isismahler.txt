@@ -1,1 +1,7 @@
 Just following Lesson07-02 Forking a repository.
+
+H1
+==
+	text: Hello, I'm from Mexico.
+	link: github.com
+
